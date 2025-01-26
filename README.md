@@ -1,10 +1,17 @@
 #clanguage
 company_name:codtech_it_solutions
+
+
 name:ashish_arun_chikhale.
+
 intern_id:CT08LU
+
 domain: c_language
+
 duration: 4 weeks
+
 mentor:neela santosh
+
 description:
 Data compression refers to the process of reducing the size of data to save space or transmission time. One of the simplest and earliest techniques for data compression is Run-Length Encoding (RLE). This algorithm is primarily used to compress data that contains large sequences of repeated characters or values. It works by replacing consecutive occurrences of the same character or data value with a single instance of that character or value followed by the number of repetitions. RLE is especially effective when the data has a lot of redundancy, such as images with large areas of a single color, or simple text files with repeated characters.
 
@@ -62,6 +69,10 @@ Conclusion
 Run-Length Encoding is a simple yet effective data compression technique for certain types of data. It is most useful when data contains significant redundancy, such as long runs of repeated characters or values. Although RLE has its limitations and is not suitable for all types of data, its simplicity, efficiency, and lossless nature make it a valuable tool in various applications like image compression, document storage, and fax transmission.
 
 In the provided C program, the basic principles of RLE are demonstrated through both encoding and decoding operations. The program efficiently compresses data and provides a mechanism to restore the original data, highlighting the power of simple algorithms in solving complex problems in data compression.
+
+
+output:
+![Image](https://github.com/user-attachments/assets/f632ea67-3044-4d45-9bba-44aabfc85b05)
 
 
 
