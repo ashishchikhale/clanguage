@@ -74,6 +74,8 @@ In the provided C program, the basic principles of RLE are demonstrated through 
 output:
 ![Image](https://github.com/user-attachments/assets/f632ea67-3044-4d45-9bba-44aabfc85b05)
 
+![Image](https://github.com/user-attachments/assets/d12735fd-39f4-4c37-a462-626382c2bc56)
+
 
 
 
